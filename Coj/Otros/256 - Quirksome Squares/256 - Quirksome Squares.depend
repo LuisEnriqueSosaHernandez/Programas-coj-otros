@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1485573385 source:c:\users\pc\documents\universidad\cepc\curso 2017\256 - quirksome squares\main.cpp
+	<cmath>
+	<cstdio>
+	<iomanip>
+	<iostream>
+	<vector>
+

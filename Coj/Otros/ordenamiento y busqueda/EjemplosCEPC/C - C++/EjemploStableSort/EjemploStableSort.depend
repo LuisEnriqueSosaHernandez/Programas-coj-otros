@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435635876 source:c:\users\raymundo\desktop\ejemploscepc\c - c++\ejemplostablesort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

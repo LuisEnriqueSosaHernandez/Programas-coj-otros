@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435689558 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\coj\c++\1597 - average\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdio>
+	<math.h>
+

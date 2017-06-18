@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485575115 source:c:\users\pc\documents\universidad\cepc\curso 2017\10812 beat the spread!\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

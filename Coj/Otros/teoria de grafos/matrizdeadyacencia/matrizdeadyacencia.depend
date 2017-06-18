@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435599188 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\coj\c++\matrizdeadyacencia\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdio>
+

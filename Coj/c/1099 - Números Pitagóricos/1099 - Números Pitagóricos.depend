@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430589899 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\coj\1099 - números pitagóricos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

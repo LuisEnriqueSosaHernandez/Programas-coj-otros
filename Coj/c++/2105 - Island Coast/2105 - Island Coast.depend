@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435617703 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\coj\c++\2105 - island coast\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdio>
+

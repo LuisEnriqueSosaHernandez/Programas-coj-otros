@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435641884 source:c:\users\raymundo\desktop\ejemploscepc\c - c++\ejemplosortmulticamposinsobreescribir\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
